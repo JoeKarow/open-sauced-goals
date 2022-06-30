@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "storybookjs/storybook",
+    "stargazers_count": 72116,
+    "open_issues_count": 1946,
+    "forks_count": 7473
+  },
+  {
     "full_name": "vercel/next.js",
     "stargazers_count": 88782,
-    "open_issues_count": 1203,
-    "forks_count": 19039
+    "open_issues_count": 1204,
+    "forks_count": 19040
   },
   {
     "full_name": "mantinedev/mantine",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "nexxeln/create-t3-app",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 10,
     "forks_count": 29
   },
