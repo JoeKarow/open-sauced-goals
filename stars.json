@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "resume/resume.github.com",
+    "stargazers_count": 57862,
+    "open_issues_count": 61,
+    "forks_count": 1364
+  },
+  {
     "full_name": "trpc/examples-kitchen-sink",
     "stargazers_count": 25,
     "open_issues_count": 3,
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3673,
+    "stargazers_count": 3674,
     "open_issues_count": 213,
     "forks_count": 246
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 72678,
+    "stargazers_count": 72681,
     "open_issues_count": 12,
     "forks_count": 9939
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 80884,
+    "stargazers_count": 80885,
     "open_issues_count": 856,
-    "forks_count": 34651
+    "forks_count": 34650
   },
   {
     "full_name": "mui/material-ui",
@@ -172,11 +178,5 @@
     "stargazers_count": 6984,
     "open_issues_count": 54,
     "forks_count": 337
-  },
-  {
-    "full_name": "TanStack/query",
-    "stargazers_count": 28123,
-    "open_issues_count": 45,
-    "forks_count": 1623
   }
 ]

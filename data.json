@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "homebridge/homebridge",
+    "stargazers_count": 20244,
+    "open_issues_count": 13,
+    "forks_count": 1909
+  },
+  {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 72116,
+    "stargazers_count": 72117,
     "open_issues_count": 1946,
     "forks_count": 7473
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 88782,
-    "open_issues_count": 1204,
+    "stargazers_count": 88783,
+    "open_issues_count": 1205,
     "forks_count": 19040
   },
   {
     "full_name": "mantinedev/mantine",
     "stargazers_count": 12112,
     "open_issues_count": 55,
-    "forks_count": 686
+    "forks_count": 687
   },
   {
     "full_name": "100Devs-ADHD/think-big",
