@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "PabloLec/website-to-gif",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "Virtual-Coffee/virtualcoffee.io",
+    "stargazers_count": 118,
+    "open_issues_count": 16,
+    "forks_count": 139
+  },
+  {
+    "full_name": "mintlify/mintlify",
+    "stargazers_count": 88,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57862,
+    "stargazers_count": 57876,
     "open_issues_count": 61,
-    "forks_count": 1364
+    "forks_count": 1365
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
@@ -13,9 +31,9 @@
   },
   {
     "full_name": "nexxeln/create-t3-app",
-    "stargazers_count": 463,
-    "open_issues_count": 10,
-    "forks_count": 29
+    "stargazers_count": 542,
+    "open_issues_count": 9,
+    "forks_count": 30
   },
   {
     "full_name": "omar-dulaimi/trpc-shield",
@@ -25,31 +43,31 @@
   },
   {
     "full_name": "omar-dulaimi/prisma-trpc-generator",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 12,
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57577,
+    "stargazers_count": 57580,
     "open_issues_count": 105,
-    "forks_count": 12184
+    "forks_count": 12188
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3675,
-    "open_issues_count": 213,
-    "forks_count": 246
+    "stargazers_count": 3681,
+    "open_issues_count": 215,
+    "forks_count": 245
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8193,
+    "stargazers_count": 8206,
     "open_issues_count": 182,
     "forks_count": 427
   },
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "rtivital/omatsuri",
-    "stargazers_count": 1749,
+    "stargazers_count": 1750,
     "open_issues_count": 4,
     "forks_count": 121
   },
@@ -79,15 +97,15 @@
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 72682,
+    "stargazers_count": 72796,
     "open_issues_count": 12,
-    "forks_count": 9939
+    "forks_count": 9949
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34415,
+    "stargazers_count": 34431,
     "open_issues_count": 18,
-    "forks_count": 5088
+    "forks_count": 5087
   },
   {
     "full_name": "azz/pretty-quick",
@@ -98,8 +116,8 @@
   {
     "full_name": "shelfio/jest-mongodb",
     "stargazers_count": 482,
-    "open_issues_count": 27,
-    "forks_count": 65
+    "open_issues_count": 25,
+    "forks_count": 66
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
@@ -117,18 +135,18 @@
     "full_name": "shahednasser/awesome-resources",
     "stargazers_count": 255,
     "open_issues_count": 6,
-    "forks_count": 230
+    "forks_count": 229
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 27013,
+    "stargazers_count": 27015,
     "open_issues_count": 12,
-    "forks_count": 3000
+    "forks_count": 3002
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47090,
-    "open_issues_count": 614,
+    "stargazers_count": 47099,
+    "open_issues_count": 613,
     "forks_count": 6171
   },
   {
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "dec0dOS/amazing-github-template",
-    "stargazers_count": 201,
+    "stargazers_count": 202,
     "open_issues_count": 2,
     "forks_count": 138
   },
   {
     "full_name": "goldbergyoni/javascript-testing-best-practices",
-    "stargazers_count": 18022,
+    "stargazers_count": 18032,
     "open_issues_count": 48,
-    "forks_count": 1586
+    "forks_count": 1587
   },
   {
     "full_name": "primefaces/primereact",
-    "stargazers_count": 2844,
+    "stargazers_count": 2846,
     "open_issues_count": 273,
     "forks_count": 597
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 80885,
-    "open_issues_count": 855,
-    "forks_count": 34650
-  },
-  {
-    "full_name": "mui/material-ui",
-    "stargazers_count": 79390,
-    "open_issues_count": 1162,
-    "forks_count": 27368
-  },
-  {
-    "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 27353,
-    "open_issues_count": 80,
-    "forks_count": 2393
-  },
-  {
-    "full_name": "nextui-org/nextui",
-    "stargazers_count": 6984,
-    "open_issues_count": 54,
-    "forks_count": 337
+    "stargazers_count": 80891,
+    "open_issues_count": 858,
+    "forks_count": 34681
   }
 ]
