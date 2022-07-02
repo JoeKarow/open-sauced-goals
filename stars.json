@@ -13,31 +13,31 @@
   },
   {
     "full_name": "mintlify/mintlify",
-    "stargazers_count": 88,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57876,
+    "stargazers_count": 57887,
     "open_issues_count": 61,
-    "forks_count": 1365
+    "forks_count": 1364
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
     "stargazers_count": 25,
-    "open_issues_count": 3,
-    "forks_count": 7
+    "open_issues_count": 4,
+    "forks_count": 8
   },
   {
     "full_name": "nexxeln/create-t3-app",
-    "stargazers_count": 542,
-    "open_issues_count": 9,
-    "forks_count": 30
+    "stargazers_count": 583,
+    "open_issues_count": 8,
+    "forks_count": 31
   },
   {
     "full_name": "omar-dulaimi/trpc-shield",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57580,
+    "stargazers_count": 57589,
     "open_issues_count": 105,
     "forks_count": 12188
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3681,
-    "open_issues_count": 215,
+    "stargazers_count": 3685,
+    "open_issues_count": 214,
     "forks_count": 245
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8206,
-    "open_issues_count": 182,
-    "forks_count": 427
+    "stargazers_count": 8213,
+    "open_issues_count": 183,
+    "forks_count": 426
   },
   {
     "full_name": "cyrilwanner/next-optimized-images",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "rtivital/omatsuri",
-    "stargazers_count": 1750,
+    "stargazers_count": 1751,
     "open_issues_count": 4,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "ChristineLuBean/my-favorite-resources",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 72796,
+    "stargazers_count": 72868,
     "open_issues_count": 12,
-    "forks_count": 9949
+    "forks_count": 9951
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34431,
+    "stargazers_count": 34441,
     "open_issues_count": 18,
     "forks_count": 5087
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1920,
+    "stargazers_count": 1921,
     "open_issues_count": 22,
     "forks_count": 140
   },
@@ -135,19 +135,19 @@
     "full_name": "shahednasser/awesome-resources",
     "stargazers_count": 255,
     "open_issues_count": 6,
-    "forks_count": 229
+    "forks_count": 231
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 27015,
+    "stargazers_count": 27019,
     "open_issues_count": 12,
-    "forks_count": 3002
+    "forks_count": 3003
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47099,
+    "stargazers_count": 47104,
     "open_issues_count": 613,
-    "forks_count": 6171
+    "forks_count": 6173
   },
   {
     "full_name": "100Devs-ADHD/think-big",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "dec0dOS/amazing-github-template",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 2,
     "forks_count": 138
   },
   {
     "full_name": "goldbergyoni/javascript-testing-best-practices",
-    "stargazers_count": 18032,
+    "stargazers_count": 18041,
     "open_issues_count": 48,
     "forks_count": 1587
   },
   {
     "full_name": "primefaces/primereact",
     "stargazers_count": 2846,
-    "open_issues_count": 273,
-    "forks_count": 597
+    "open_issues_count": 248,
+    "forks_count": 596
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 80891,
-    "open_issues_count": 858,
-    "forks_count": 34681
+    "stargazers_count": 80909,
+    "open_issues_count": 859,
+    "forks_count": 34684
   }
 ]
