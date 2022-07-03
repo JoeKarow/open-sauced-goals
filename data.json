@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "codetriage/CodeTriage",
+    "stargazers_count": 1271,
+    "open_issues_count": 119,
+    "forks_count": 361
+  },
+  {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 12208,
+    "stargazers_count": 12210,
     "open_issues_count": 334,
-    "forks_count": 1392
+    "forks_count": 1394
   },
   {
     "full_name": "1Password/op-vscode",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 4,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "homebridge/homebridge",
@@ -25,20 +31,20 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 72353,
-    "open_issues_count": 1886,
+    "stargazers_count": 72399,
+    "open_issues_count": 1885,
     "forks_count": 7484
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 89013,
-    "open_issues_count": 1219,
+    "stargazers_count": 89024,
+    "open_issues_count": 1222,
     "forks_count": 19091
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 12158,
-    "open_issues_count": 62,
+    "stargazers_count": 12163,
+    "open_issues_count": 63,
     "forks_count": 688
   },
   {
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "nexxeln/create-t3-app",
-    "stargazers_count": 663,
-    "open_issues_count": 7,
-    "forks_count": 31
+    "stargazers_count": 696,
+    "open_issues_count": 8,
+    "forks_count": 32
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
@@ -63,6 +69,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 711,
     "open_issues_count": 16,
-    "forks_count": 299
+    "forks_count": 300
   }
 ]
