@@ -1,21 +1,21 @@
 [
   {
     "full_name": "Jarred-Sumner/bun",
-    "stargazers_count": 14498,
-    "open_issues_count": 185,
-    "forks_count": 208
+    "stargazers_count": 17149,
+    "open_issues_count": 191,
+    "forks_count": 275
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 93770,
+    "stargazers_count": 93846,
     "open_issues_count": 149,
-    "forks_count": 6009
+    "forks_count": 6012
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5240,
-    "open_issues_count": 93,
-    "forks_count": 280
+    "stargazers_count": 5245,
+    "open_issues_count": 92,
+    "forks_count": 281
   },
   {
     "full_name": "merceyz/typescript-to-proptypes",
@@ -26,7 +26,7 @@
   {
     "full_name": "JoeKarow/netwerkr",
     "stargazers_count": 1,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 1
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57938,
+    "stargazers_count": 57945,
     "open_issues_count": 61,
     "forks_count": 1364
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
-    "stargazers_count": 27,
+    "stargazers_count": 31,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 2710,
-    "open_issues_count": 8,
-    "forks_count": 92
+    "stargazers_count": 2931,
+    "open_issues_count": 5,
+    "forks_count": 94
   },
   {
     "full_name": "omar-dulaimi/trpc-shield",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "omar-dulaimi/prisma-trpc-generator",
-    "stargazers_count": 70,
+    "stargazers_count": 72,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -93,23 +93,23 @@
     "full_name": "kdn251/interviews",
     "stargazers_count": 57641,
     "open_issues_count": 105,
-    "forks_count": 12198
+    "forks_count": 12200
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3723,
+    "stargazers_count": 3731,
     "open_issues_count": 210,
-    "forks_count": 246
+    "forks_count": 247
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8274,
-    "open_issues_count": 189,
-    "forks_count": 437
+    "stargazers_count": 8282,
+    "open_issues_count": 193,
+    "forks_count": 438
   },
   {
     "full_name": "cyrilwanner/next-optimized-images",
-    "stargazers_count": 2040,
+    "stargazers_count": 2041,
     "open_issues_count": 125,
     "forks_count": 89
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "rtivital/omatsuri",
-    "stargazers_count": 1775,
+    "stargazers_count": 1777,
     "open_issues_count": 4,
     "forks_count": 127
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 73286,
+    "stargazers_count": 73547,
     "open_issues_count": 12,
-    "forks_count": 9992
+    "forks_count": 10012
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34518,
+    "stargazers_count": 34528,
     "open_issues_count": 18,
     "forks_count": 5096
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1927,
-    "open_issues_count": 24,
+    "stargazers_count": 1930,
+    "open_issues_count": 25,
     "forks_count": 140
   },
   {
     "full_name": "Fueler-io/Web-Development-Resources",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 5,
     "forks_count": 49
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 27027,
+    "stargazers_count": 27037,
     "open_issues_count": 12,
-    "forks_count": 3006
+    "forks_count": 3009
   }
 ]
