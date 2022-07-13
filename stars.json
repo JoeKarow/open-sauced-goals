@@ -1,33 +1,33 @@
 [
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 30415,
+    "stargazers_count": 30449,
     "open_issues_count": 489,
-    "forks_count": 2423
+    "forks_count": 2425
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 9614,
-    "open_issues_count": 93,
-    "forks_count": 697
+    "stargazers_count": 9619,
+    "open_issues_count": 94,
+    "forks_count": 699
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 22603,
-    "open_issues_count": 235,
-    "forks_count": 417
+    "stargazers_count": 23676,
+    "open_issues_count": 252,
+    "forks_count": 451
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 94493,
-    "open_issues_count": 145,
-    "forks_count": 6026
+    "stargazers_count": 94728,
+    "open_issues_count": 146,
+    "forks_count": 6039
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5254,
-    "open_issues_count": 93,
-    "forks_count": 281
+    "stargazers_count": 5260,
+    "open_issues_count": 95,
+    "forks_count": 282
   },
   {
     "full_name": "merceyz/typescript-to-proptypes",
@@ -38,7 +38,7 @@
   {
     "full_name": "JoeKarow/netwerkr",
     "stargazers_count": 1,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 1
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "mintlify/connector",
-    "stargazers_count": 104,
-    "open_issues_count": 1,
+    "stargazers_count": 106,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57963,
+    "stargazers_count": 57972,
     "open_issues_count": 61,
-    "forks_count": 1365
+    "forks_count": 1366
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
@@ -79,45 +79,45 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 3256,
+    "stargazers_count": 3346,
     "open_issues_count": 10,
-    "forks_count": 111
+    "forks_count": 117
   },
   {
     "full_name": "omar-dulaimi/trpc-shield",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "omar-dulaimi/prisma-trpc-generator",
     "stargazers_count": 75,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
     "stargazers_count": 16,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57673,
-    "open_issues_count": 105,
+    "stargazers_count": 57678,
+    "open_issues_count": 104,
     "forks_count": 12203
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3761,
-    "open_issues_count": 213,
+    "stargazers_count": 3775,
+    "open_issues_count": 215,
     "forks_count": 248
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8310,
-    "open_issues_count": 192,
-    "forks_count": 440
+    "stargazers_count": 8317,
+    "open_issues_count": 196,
+    "forks_count": 443
   },
   {
     "full_name": "cyrilwanner/next-optimized-images",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "rtivital/omatsuri",
-    "stargazers_count": 1777,
+    "stargazers_count": 1785,
     "open_issues_count": 4,
     "forks_count": 127
   },
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 74077,
+    "stargazers_count": 74161,
     "open_issues_count": 12,
-    "forks_count": 10044
+    "forks_count": 10049
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34555,
+    "stargazers_count": 34558,
     "open_issues_count": 17,
-    "forks_count": 5100
+    "forks_count": 5102
   },
   {
     "full_name": "azz/pretty-quick",
-    "stargazers_count": 1918,
+    "stargazers_count": 1919,
     "open_issues_count": 35,
     "forks_count": 85
   },
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1932,
-    "open_issues_count": 25,
+    "stargazers_count": 1934,
+    "open_issues_count": 26,
     "forks_count": 140
   },
   {
