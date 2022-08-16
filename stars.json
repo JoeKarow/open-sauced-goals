@@ -1,79 +1,79 @@
 [
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 9492,
-    "open_issues_count": 30,
+    "stargazers_count": 9584,
+    "open_issues_count": 33,
     "forks_count": 284
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 4723,
-    "open_issues_count": 34,
-    "forks_count": 68
+    "stargazers_count": 4759,
+    "open_issues_count": 38,
+    "forks_count": 69
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 72732,
+    "stargazers_count": 72804,
     "open_issues_count": 262,
-    "forks_count": 3238
+    "forks_count": 3241
   },
   {
     "full_name": "mintlify/writer",
-    "stargazers_count": 1341,
+    "stargazers_count": 1356,
     "open_issues_count": 26,
     "forks_count": 38
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 8438,
-    "open_issues_count": 90,
-    "forks_count": 241
+    "stargazers_count": 8462,
+    "open_issues_count": 93,
+    "forks_count": 243
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 79724,
+    "stargazers_count": 79810,
     "open_issues_count": 28,
-    "forks_count": 8237
+    "forks_count": 8250
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 35691,
-    "open_issues_count": 2,
-    "forks_count": 3100
+    "stargazers_count": 35772,
+    "open_issues_count": 3,
+    "forks_count": 3110
   },
   {
     "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 1257,
-    "open_issues_count": 9,
+    "stargazers_count": 1262,
+    "open_issues_count": 8,
     "forks_count": 18
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 31176,
+    "stargazers_count": 31241,
     "open_issues_count": 487,
-    "forks_count": 2499
+    "forks_count": 2505
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 9801,
-    "open_issues_count": 91,
-    "forks_count": 715
+    "stargazers_count": 9821,
+    "open_issues_count": 93,
+    "forks_count": 717
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 31125,
-    "open_issues_count": 359,
-    "forks_count": 679
+    "stargazers_count": 31484,
+    "open_issues_count": 349,
+    "forks_count": 693
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 98274,
-    "open_issues_count": 112,
-    "forks_count": 6170
+    "stargazers_count": 98756,
+    "open_issues_count": 115,
+    "forks_count": 6189
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5359,
+    "stargazers_count": 5367,
     "open_issues_count": 94,
     "forks_count": 292
   },
@@ -104,72 +104,72 @@
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 120,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 147
   },
   {
     "full_name": "mintlify/connector",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58217,
+    "stargazers_count": 58261,
     "open_issues_count": 61,
-    "forks_count": 1369
+    "forks_count": 1371
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 5076,
-    "open_issues_count": 20,
-    "forks_count": 192
+    "stargazers_count": 5268,
+    "open_issues_count": 17,
+    "forks_count": 200
   },
   {
     "full_name": "omar-dulaimi/trpc-shield",
-    "stargazers_count": 134,
+    "stargazers_count": 139,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "omar-dulaimi/prisma-trpc-generator",
-    "stargazers_count": 127,
+    "stargazers_count": 131,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 28,
-    "open_issues_count": 2,
+    "stargazers_count": 31,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57943,
-    "open_issues_count": 106,
-    "forks_count": 12250
+    "stargazers_count": 57979,
+    "open_issues_count": 105,
+    "forks_count": 12256
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3987,
-    "open_issues_count": 227,
-    "forks_count": 267
+    "stargazers_count": 4010,
+    "open_issues_count": 226,
+    "forks_count": 268
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8743,
-    "open_issues_count": 213,
-    "forks_count": 512
+    "stargazers_count": 8806,
+    "open_issues_count": 214,
+    "forks_count": 519
   },
   {
     "full_name": "cyrilwanner/next-optimized-images",
-    "stargazers_count": 2055,
+    "stargazers_count": 2056,
     "open_issues_count": 125,
     "forks_count": 90
   },
