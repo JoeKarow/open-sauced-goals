@@ -1,33 +1,33 @@
 [
   {
     "full_name": "i18next/next-i18next",
-    "stargazers_count": 3660,
-    "open_issues_count": 15,
-    "forks_count": 632
+    "stargazers_count": 3669,
+    "open_issues_count": 16,
+    "forks_count": 634
   },
   {
     "full_name": "lukasbach/react-complex-tree",
-    "stargazers_count": 238,
-    "open_issues_count": 18,
+    "stargazers_count": 240,
+    "open_issues_count": 19,
     "forks_count": 30
   },
   {
     "full_name": "jellydn/next-swagger-doc",
-    "stargazers_count": 108,
-    "open_issues_count": 1,
+    "stargazers_count": 109,
+    "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "SoftwareBrothers/better-docs",
     "stargazers_count": 676,
-    "open_issues_count": 99,
+    "open_issues_count": 100,
     "forks_count": 101
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 59869,
-    "open_issues_count": 12,
-    "forks_count": 6585
+    "stargazers_count": 60036,
+    "open_issues_count": 13,
+    "forks_count": 6600
   },
   {
     "full_name": "weareinreach/InReach",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "javisperez/tailwindcolorshades",
-    "stargazers_count": 564,
+    "stargazers_count": 565,
     "open_issues_count": 10,
     "forks_count": 48
   },
   {
     "full_name": "catdad/canvas-confetti",
-    "stargazers_count": 3981,
-    "open_issues_count": 25,
+    "stargazers_count": 3996,
+    "open_issues_count": 26,
     "forks_count": 198
   },
   {
     "full_name": "vechai/vechaiui",
-    "stargazers_count": 1034,
+    "stargazers_count": 1035,
     "open_issues_count": 12,
     "forks_count": 56
   },
   {
     "full_name": "formatjs/formatjs",
-    "stargazers_count": 13353,
-    "open_issues_count": 24,
+    "stargazers_count": 13359,
+    "open_issues_count": 25,
     "forks_count": 1350
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 13169,
-    "open_issues_count": 54,
-    "forks_count": 1953
+    "stargazers_count": 13205,
+    "open_issues_count": 57,
+    "forks_count": 1956
   },
   {
     "full_name": "dataunlocker/save-analytics-from-content-blockers",
@@ -91,91 +91,91 @@
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 21682,
-    "open_issues_count": 26,
-    "forks_count": 640
+    "stargazers_count": 21809,
+    "open_issues_count": 24,
+    "forks_count": 641
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 16684,
-    "open_issues_count": 13,
-    "forks_count": 642
+    "stargazers_count": 16744,
+    "open_issues_count": 14,
+    "forks_count": 645
   },
   {
     "full_name": "lukasz-madon/awesome-remote-job",
-    "stargazers_count": 23050,
+    "stargazers_count": 23080,
     "open_issues_count": 35,
-    "forks_count": 2299
+    "forks_count": 2301
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 51130,
+    "stargazers_count": 51186,
     "open_issues_count": 145,
-    "forks_count": 6231
+    "forks_count": 6241
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 102874,
+    "stargazers_count": 102985,
     "open_issues_count": 0,
-    "forks_count": 10707
+    "forks_count": 10729
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 159053,
+    "stargazers_count": 159171,
     "open_issues_count": 132,
-    "forks_count": 31151
+    "forks_count": 31177
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 47654,
+    "stargazers_count": 47706,
     "open_issues_count": 77,
-    "forks_count": 6711
+    "forks_count": 6721
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127192,
-    "open_issues_count": 148,
-    "forks_count": 24257
+    "stargazers_count": 127277,
+    "open_issues_count": 147,
+    "forks_count": 24277
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 51691,
+    "stargazers_count": 51727,
     "open_issues_count": 26,
-    "forks_count": 7114
+    "forks_count": 7118
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 150906,
+    "stargazers_count": 151049,
     "open_issues_count": 271,
-    "forks_count": 25135
+    "forks_count": 25189
   },
   {
     "full_name": "remeda/remeda",
-    "stargazers_count": 1688,
+    "stargazers_count": 1699,
     "open_issues_count": 27,
     "forks_count": 59
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 10036,
-    "open_issues_count": 34,
-    "forks_count": 306
+    "stargazers_count": 10088,
+    "open_issues_count": 27,
+    "forks_count": 309
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5248,
-    "open_issues_count": 36,
-    "forks_count": 83
+    "stargazers_count": 5359,
+    "open_issues_count": 37,
+    "forks_count": 84
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 73330,
+    "stargazers_count": 73397,
     "open_issues_count": 257,
     "forks_count": 3246
   },
   {
     "full_name": "mintlify/writer",
-    "stargazers_count": 1415,
+    "stargazers_count": 1431,
     "open_issues_count": 28,
     "forks_count": 41
   }
