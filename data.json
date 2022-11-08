@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1297,
-    "open_issues_count": 83,
-    "forks_count": 372
+    "stargazers_count": 1298,
+    "open_issues_count": 85,
+    "forks_count": 373
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 14041,
-    "open_issues_count": 540,
-    "forks_count": 1704
+    "stargazers_count": 14077,
+    "open_issues_count": 532,
+    "forks_count": 1709
   },
   {
     "full_name": "1Password/op-vscode",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 20954,
+    "stargazers_count": 20973,
     "open_issues_count": 22,
-    "forks_count": 1939
+    "forks_count": 1940
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 74894,
-    "open_issues_count": 2146,
-    "forks_count": 7897
+    "stargazers_count": 74962,
+    "open_issues_count": 2148,
+    "forks_count": 7906
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 95674,
-    "open_issues_count": 1497,
-    "forks_count": 20980
+    "stargazers_count": 95921,
+    "open_issues_count": 1523,
+    "forks_count": 21047
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 15482,
-    "open_issues_count": 49,
-    "forks_count": 1000
+    "stargazers_count": 15558,
+    "open_issues_count": 55,
+    "forks_count": 1015
   },
   {
     "full_name": "100Devs-ADHD/think-big",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 8778,
-    "open_issues_count": 10,
-    "forks_count": 362
+    "stargazers_count": 8901,
+    "open_issues_count": 11,
+    "forks_count": 373
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 133,
-    "open_issues_count": 14,
-    "forks_count": 165
+    "stargazers_count": 134,
+    "open_issues_count": 17,
+    "forks_count": 164
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 805,
     "open_issues_count": 9,
-    "forks_count": 424
+    "forks_count": 431
   }
 ]
