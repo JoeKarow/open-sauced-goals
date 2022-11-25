@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1300,
+    "stargazers_count": 1301,
     "open_issues_count": 85,
     "forks_count": 372
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 14261,
-    "open_issues_count": 604,
-    "forks_count": 1731
+    "stargazers_count": 14285,
+    "open_issues_count": 595,
+    "forks_count": 1736
   },
   {
     "full_name": "1Password/op-vscode",
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "trpc/examples-kitchen-sink",
-    "stargazers_count": 59,
+    "stargazers_count": 61,
     "open_issues_count": 7,
     "forks_count": 13
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 21064,
+    "stargazers_count": 21085,
     "open_issues_count": 24,
-    "forks_count": 1945
+    "forks_count": 1944
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 75169,
-    "open_issues_count": 2173,
-    "forks_count": 7934
+    "stargazers_count": 75223,
+    "open_issues_count": 2186,
+    "forks_count": 7941
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 96693,
-    "open_issues_count": 1587,
-    "forks_count": 21276
+    "stargazers_count": 96865,
+    "open_issues_count": 1573,
+    "forks_count": 21335
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 15842,
-    "open_issues_count": 53,
-    "forks_count": 1044
+    "stargazers_count": 15890,
+    "open_issues_count": 55,
+    "forks_count": 1049
   },
   {
     "full_name": "100Devs-ADHD/think-big",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 9930,
-    "open_issues_count": 24,
-    "forks_count": 415
+    "stargazers_count": 10679,
+    "open_issues_count": 23,
+    "forks_count": 435
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 136,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 164
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 812,
     "open_issues_count": 10,
-    "forks_count": 445
+    "forks_count": 447
   }
 ]
