@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "nektos/act",
+    "stargazers_count": 31577,
+    "open_issues_count": 83,
+    "forks_count": 800
+  },
+  {
     "full_name": "catalinmiron/awesome-prisma",
-    "stargazers_count": 493,
+    "stargazers_count": 494,
     "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "iamvishnusankar/next-sitemap",
-    "stargazers_count": 2004,
+    "stargazers_count": 2020,
     "open_issues_count": 31,
     "forks_count": 74
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 531,
-    "open_issues_count": 18,
-    "forks_count": 13
+    "stargazers_count": 715,
+    "open_issues_count": 37,
+    "forks_count": 24
   },
   {
     "full_name": "sapegin/mrm",
-    "stargazers_count": 1402,
-    "open_issues_count": 54,
+    "stargazers_count": 1404,
+    "open_issues_count": 55,
     "forks_count": 75
   },
   {
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "catamphetamine/libphonenumber-js",
-    "stargazers_count": 2455,
-    "open_issues_count": 15,
+    "stargazers_count": 2456,
+    "open_issues_count": 16,
     "forks_count": 212
   },
   {
     "full_name": "jpomykala/awesome-i18n",
-    "stargazers_count": 201,
+    "stargazers_count": 203,
     "open_issues_count": 0,
     "forks_count": 21
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 2696,
+    "stargazers_count": 2721,
     "open_issues_count": 13,
     "forks_count": 29
   },
@@ -61,21 +67,21 @@
   },
   {
     "full_name": "rhenriquez28/trpc-client-devtools",
-    "stargazers_count": 45,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "CarterGrimmeisen/zod-prisma",
-    "stargazers_count": 369,
+    "stargazers_count": 371,
     "open_issues_count": 43,
-    "forks_count": 48
+    "forks_count": 50
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 1846,
-    "open_issues_count": 13,
-    "forks_count": 87
+    "stargazers_count": 1859,
+    "open_issues_count": 10,
+    "forks_count": 88
   },
   {
     "full_name": "coreyward/sanity-pills",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 48068,
+    "stargazers_count": 48151,
     "open_issues_count": 10,
-    "forks_count": 5521
+    "forks_count": 5525
   },
   {
     "full_name": "nock/nock",
-    "stargazers_count": 11820,
+    "stargazers_count": 11822,
     "open_issues_count": 69,
-    "forks_count": 778
+    "forks_count": 777
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 1033,
-    "open_issues_count": 11,
-    "forks_count": 59
+    "stargazers_count": 1092,
+    "open_issues_count": 13,
+    "forks_count": 63
   },
   {
     "full_name": "preeformance/siktheday",
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2372,
+    "stargazers_count": 2382,
     "open_issues_count": 30,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "mintlify/mint",
-    "stargazers_count": 292,
+    "stargazers_count": 307,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "alexreardon/tiny-invariant",
-    "stargazers_count": 1015,
+    "stargazers_count": 1016,
     "open_issues_count": 11,
     "forks_count": 24
   },
   {
     "full_name": "TypeStrong/typedoc",
-    "stargazers_count": 6243,
-    "open_issues_count": 42,
-    "forks_count": 630
+    "stargazers_count": 6252,
+    "open_issues_count": 43,
+    "forks_count": 629
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 20809,
-    "open_issues_count": 465,
+    "stargazers_count": 20845,
+    "open_issues_count": 452,
     "forks_count": 1621
   },
   {
     "full_name": "dsherret/ts-morph",
-    "stargazers_count": 3285,
-    "open_issues_count": 160,
+    "stargazers_count": 3293,
+    "open_issues_count": 163,
     "forks_count": 156
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2768,
-    "open_issues_count": 61,
+    "stargazers_count": 2769,
+    "open_issues_count": 63,
     "forks_count": 391
   },
   {
     "full_name": "fatedier/frp",
-    "stargazers_count": 62141,
+    "stargazers_count": 62247,
     "open_issues_count": 101,
-    "forks_count": 10883
+    "forks_count": 10895
   },
   {
     "full_name": "i18next/next-i18next",
-    "stargazers_count": 3855,
-    "open_issues_count": 5,
-    "forks_count": 653
+    "stargazers_count": 3866,
+    "open_issues_count": 4,
+    "forks_count": 654
   },
   {
     "full_name": "lukasbach/react-complex-tree",
-    "stargazers_count": 269,
+    "stargazers_count": 271,
     "open_issues_count": 19,
     "forks_count": 32
   },
   {
     "full_name": "jellydn/next-swagger-doc",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 1,
     "forks_count": 16
-  },
-  {
-    "full_name": "SoftwareBrothers/better-docs",
-    "stargazers_count": 694,
-    "open_issues_count": 107,
-    "forks_count": 105
   }
 ]
