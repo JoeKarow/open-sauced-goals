@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "resendlabs/react-email",
+    "stargazers_count": 3294,
+    "open_issues_count": 48,
+    "forks_count": 93
+  },
+  {
     "full_name": "typescript-community/resources",
     "stargazers_count": 32,
     "open_issues_count": 0,
@@ -7,49 +13,49 @@
   },
   {
     "full_name": "xiaolin/react-image-gallery",
-    "stargazers_count": 3288,
+    "stargazers_count": 3293,
     "open_issues_count": 23,
-    "forks_count": 661
+    "forks_count": 662
   },
   {
     "full_name": "brimdata/react-arborist",
-    "stargazers_count": 1934,
+    "stargazers_count": 1941,
     "open_issues_count": 34,
-    "forks_count": 56
+    "forks_count": 58
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 11123,
+    "stargazers_count": 11128,
     "open_issues_count": 44,
-    "forks_count": 929
+    "forks_count": 933
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 76130,
-    "open_issues_count": 1934,
-    "forks_count": 8058
+    "stargazers_count": 76223,
+    "open_issues_count": 1954,
+    "forks_count": 8064
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 17446,
-    "open_issues_count": 143,
-    "forks_count": 591
+    "stargazers_count": 17635,
+    "open_issues_count": 149,
+    "forks_count": 596
   },
   {
     "full_name": "sbking/prisma-client-extensions",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "chrishoermann/zod-prisma-types",
-    "stargazers_count": 78,
+    "stargazers_count": 85,
     "open_issues_count": 9,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1124,
+    "stargazers_count": 1129,
     "open_issues_count": 4,
     "forks_count": 116
   },
@@ -61,14 +67,14 @@
   },
   {
     "full_name": "thejsway/thejsway",
-    "stargazers_count": 7737,
+    "stargazers_count": 7740,
     "open_issues_count": 1,
-    "forks_count": 777
+    "forks_count": 779
   },
   {
     "full_name": "1Password/shell-plugins",
-    "stargazers_count": 225,
-    "open_issues_count": 35,
+    "stargazers_count": 231,
+    "open_issues_count": 37,
     "forks_count": 26
   },
   {
@@ -79,73 +85,73 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 39786,
-    "open_issues_count": 909,
-    "forks_count": 3346
+    "stargazers_count": 39954,
+    "open_issues_count": 917,
+    "forks_count": 3364
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 28466,
-    "open_issues_count": 2569,
-    "forks_count": 1024
+    "stargazers_count": 28560,
+    "open_issues_count": 2587,
+    "forks_count": 1026
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 34114,
-    "open_issues_count": 81,
-    "forks_count": 864
+    "stargazers_count": 34197,
+    "open_issues_count": 83,
+    "forks_count": 867
   },
   {
     "full_name": "catalinmiron/awesome-prisma",
-    "stargazers_count": 507,
+    "stargazers_count": 506,
     "open_issues_count": 7,
     "forks_count": 41
   },
   {
     "full_name": "iamvishnusankar/next-sitemap",
-    "stargazers_count": 2180,
+    "stargazers_count": 2191,
     "open_issues_count": 39,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 2962,
-    "open_issues_count": 66,
-    "forks_count": 87
+    "stargazers_count": 3399,
+    "open_issues_count": 67,
+    "forks_count": 98
   },
   {
     "full_name": "sapegin/mrm",
-    "stargazers_count": 1417,
+    "stargazers_count": 1418,
     "open_issues_count": 62,
     "forks_count": 76
   },
   {
     "full_name": "catamphetamine/react-phone-number-input",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 15,
     "forks_count": 191
   },
   {
     "full_name": "catamphetamine/libphonenumber-js",
-    "stargazers_count": 2480,
+    "stargazers_count": 2481,
     "open_issues_count": 14,
     "forks_count": 214
   },
   {
     "full_name": "jpomykala/awesome-i18n",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "get-alex/alex",
-    "stargazers_count": 4483,
+    "stargazers_count": 4484,
     "open_issues_count": 19,
     "forks_count": 230
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 3122,
+    "stargazers_count": 3146,
     "open_issues_count": 21,
     "forks_count": 34
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "CarterGrimmeisen/zod-prisma",
-    "stargazers_count": 418,
+    "stargazers_count": 417,
     "open_issues_count": 44,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 2075,
-    "open_issues_count": 15,
-    "forks_count": 105
-  },
-  {
-    "full_name": "coreyward/sanity-pills",
-    "stargazers_count": 28,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 2083,
+    "open_issues_count": 10,
+    "forks_count": 109
   }
 ]
