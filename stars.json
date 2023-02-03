@@ -1,9 +1,9 @@
 [
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 4081,
-    "open_issues_count": 40,
-    "forks_count": 130
+    "stargazers_count": 4361,
+    "open_issues_count": 47,
+    "forks_count": 139
   },
   {
     "full_name": "typescript-community/resources",
@@ -13,51 +13,51 @@
   },
   {
     "full_name": "xiaolin/react-image-gallery",
-    "stargazers_count": 3296,
+    "stargazers_count": 3302,
     "open_issues_count": 9,
-    "forks_count": 663
+    "forks_count": 666
   },
   {
     "full_name": "brimdata/react-arborist",
-    "stargazers_count": 1950,
-    "open_issues_count": 33,
+    "stargazers_count": 1956,
+    "open_issues_count": 35,
     "forks_count": 59
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 11144,
+    "stargazers_count": 11148,
     "open_issues_count": 43,
-    "forks_count": 935
+    "forks_count": 934
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 76350,
-    "open_issues_count": 1963,
-    "forks_count": 8095
+    "stargazers_count": 76427,
+    "open_issues_count": 1942,
+    "forks_count": 8104
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 17992,
-    "open_issues_count": 144,
-    "forks_count": 604
+    "stargazers_count": 18131,
+    "open_issues_count": 142,
+    "forks_count": 610
   },
   {
     "full_name": "sbking/prisma-client-extensions",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "chrishoermann/zod-prisma-types",
-    "stargazers_count": 96,
-    "open_issues_count": 14,
+    "stargazers_count": 98,
+    "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1133,
-    "open_issues_count": 4,
-    "forks_count": 117
+    "stargazers_count": 1142,
+    "open_issues_count": 5,
+    "forks_count": 119
   },
   {
     "full_name": "total-typescript/advanced-typescript-workshop",
@@ -67,116 +67,116 @@
   },
   {
     "full_name": "thejsway/thejsway",
-    "stargazers_count": 7748,
+    "stargazers_count": 7750,
     "open_issues_count": 1,
-    "forks_count": 780
+    "forks_count": 781
   },
   {
     "full_name": "1Password/shell-plugins",
-    "stargazers_count": 237,
-    "open_issues_count": 39,
-    "forks_count": 30
+    "stargazers_count": 243,
+    "open_issues_count": 43,
+    "forks_count": 32
   },
   {
     "full_name": "mtb-tools/vscode-mono-workspace",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 40699,
-    "open_issues_count": 918,
-    "forks_count": 3408
+    "stargazers_count": 40933,
+    "open_issues_count": 914,
+    "forks_count": 3429
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 28744,
-    "open_issues_count": 2606,
-    "forks_count": 1038
+    "stargazers_count": 28838,
+    "open_issues_count": 2618,
+    "forks_count": 1045
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 34399,
-    "open_issues_count": 84,
-    "forks_count": 869
+    "stargazers_count": 34548,
+    "open_issues_count": 91,
+    "forks_count": 876
   },
   {
     "full_name": "catalinmiron/awesome-prisma",
-    "stargazers_count": 505,
+    "stargazers_count": 506,
     "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "iamvishnusankar/next-sitemap",
-    "stargazers_count": 2211,
-    "open_issues_count": 39,
+    "stargazers_count": 2215,
+    "open_issues_count": 38,
     "forks_count": 81
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 3755,
-    "open_issues_count": 70,
-    "forks_count": 113
+    "stargazers_count": 3839,
+    "open_issues_count": 68,
+    "forks_count": 119
   },
   {
     "full_name": "sapegin/mrm",
-    "stargazers_count": 1418,
+    "stargazers_count": 1419,
     "open_issues_count": 63,
     "forks_count": 76
   },
   {
     "full_name": "catamphetamine/react-phone-number-input",
     "stargazers_count": 841,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 191
   },
   {
     "full_name": "catamphetamine/libphonenumber-js",
-    "stargazers_count": 2485,
+    "stargazers_count": 2486,
     "open_issues_count": 14,
     "forks_count": 214
   },
   {
     "full_name": "jpomykala/awesome-i18n",
-    "stargazers_count": 208,
+    "stargazers_count": 209,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "get-alex/alex",
-    "stargazers_count": 4486,
+    "stargazers_count": 4493,
     "open_issues_count": 20,
-    "forks_count": 230
+    "forks_count": 232
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 3191,
+    "stargazers_count": 3215,
     "open_issues_count": 20,
-    "forks_count": 34
+    "forks_count": 36
   },
   {
     "full_name": "ExpediaGroup/cypress-codegen",
-    "stargazers_count": 5,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "rhenriquez28/trpc-client-devtools",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "CarterGrimmeisen/zod-prisma",
-    "stargazers_count": 425,
+    "stargazers_count": 429,
     "open_issues_count": 44,
     "forks_count": 60
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 2118,
-    "open_issues_count": 13,
-    "forks_count": 109
+    "stargazers_count": 2131,
+    "open_issues_count": 15,
+    "forks_count": 108
   }
 ]
