@@ -2,14 +2,14 @@
   {
     "full_name": "codetriage/CodeTriage",
     "stargazers_count": 1319,
-    "open_issues_count": 92,
+    "open_issues_count": 93,
     "forks_count": 373
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 16674,
-    "open_issues_count": 595,
-    "forks_count": 1987
+    "stargazers_count": 16778,
+    "open_issues_count": 637,
+    "forks_count": 2005
   },
   {
     "full_name": "1Password/op-vscode",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 21545,
-    "open_issues_count": 25,
-    "forks_count": 1954
+    "stargazers_count": 21562,
+    "open_issues_count": 24,
+    "forks_count": 1955
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 76733,
-    "open_issues_count": 1926,
-    "forks_count": 8153
+    "stargazers_count": 76805,
+    "open_issues_count": 1937,
+    "forks_count": 8158
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 100814,
-    "open_issues_count": 1513,
-    "forks_count": 22390
+    "stargazers_count": 100959,
+    "open_issues_count": 1467,
+    "forks_count": 22455
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 17558,
-    "open_issues_count": 112,
-    "forks_count": 1207
+    "stargazers_count": 17608,
+    "open_issues_count": 101,
+    "forks_count": 1216
   },
   {
     "full_name": "100Devs-ADHD/thinkBig",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 14323,
-    "open_issues_count": 48,
-    "forks_count": 610
+    "stargazers_count": 14412,
+    "open_issues_count": 49,
+    "forks_count": 618
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 143,
-    "open_issues_count": 22,
-    "forks_count": 169
+    "open_issues_count": 13,
+    "forks_count": 170
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 840,
     "open_issues_count": 9,
-    "forks_count": 523
+    "forks_count": 529
   }
 ]
