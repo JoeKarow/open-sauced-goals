@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1327,
+    "stargazers_count": 1329,
     "open_issues_count": 99,
     "forks_count": 369
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 17819,
-    "open_issues_count": 819,
-    "forks_count": 2218
+    "stargazers_count": 17889,
+    "open_issues_count": 812,
+    "forks_count": 2231
   },
   {
     "full_name": "1Password/op-vscode",
@@ -21,31 +21,31 @@
     "full_name": "trpc/examples-kitchen-sink",
     "stargazers_count": 87,
     "open_issues_count": 5,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 21800,
+    "stargazers_count": 21814,
     "open_issues_count": 29,
     "forks_count": 1958
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 78071,
-    "open_issues_count": 2118,
-    "forks_count": 8368
+    "stargazers_count": 78123,
+    "open_issues_count": 2123,
+    "forks_count": 8376
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 104520,
-    "open_issues_count": 1734,
-    "forks_count": 23498
+    "stargazers_count": 104705,
+    "open_issues_count": 1761,
+    "forks_count": 23558
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 18867,
-    "open_issues_count": 101,
-    "forks_count": 1348
+    "stargazers_count": 18950,
+    "open_issues_count": 90,
+    "forks_count": 1352
   },
   {
     "full_name": "100Devs-ADHD/thinkBig",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16609,
-    "open_issues_count": 33,
-    "forks_count": 725
+    "stargazers_count": 16708,
+    "open_issues_count": 40,
+    "forks_count": 734
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 862,
+    "stargazers_count": 863,
     "open_issues_count": 9,
-    "forks_count": 591
+    "forks_count": 592
   }
 ]
