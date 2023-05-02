@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "NaturalNode/natural",
+    "stargazers_count": 10156,
+    "open_issues_count": 89,
+    "forks_count": 878
+  },
+  {
+    "full_name": "t3-oss/t3-env",
+    "stargazers_count": 928,
+    "open_issues_count": 10,
+    "forks_count": 21
+  },
+  {
     "full_name": "conference-buddy/conference-buddy",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 9884,
-    "open_issues_count": 15,
-    "forks_count": 60
+    "stargazers_count": 10111,
+    "open_issues_count": 13,
+    "forks_count": 62
   },
   {
     "full_name": "awsdocs/aws-doc-sdk-examples",
-    "stargazers_count": 7493,
+    "stargazers_count": 7501,
     "open_issues_count": 193,
-    "forks_count": 5014
+    "forks_count": 5023
   },
   {
     "full_name": "MattyMc/chatgpt-lightning-talk",
@@ -25,33 +37,33 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 105098,
-    "open_issues_count": 1829,
-    "forks_count": 23699
+    "stargazers_count": 105312,
+    "open_issues_count": 1836,
+    "forks_count": 23732
   },
   {
     "full_name": "anthonyhastings/turborepo-design-system",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "storybookjs/addon-kit",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "ascorbic/unpic-img",
-    "stargazers_count": 713,
+    "stargazers_count": 716,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 5180,
-    "open_issues_count": 27,
-    "forks_count": 228
+    "stargazers_count": 5277,
+    "open_issues_count": 30,
+    "forks_count": 229
   },
   {
     "full_name": "mojoaxel/awesome-regression-testing",
@@ -61,13 +73,13 @@
   },
   {
     "full_name": "tatethurston/nextjs-routes",
-    "stargazers_count": 326,
+    "stargazers_count": 327,
     "open_issues_count": 7,
-    "forks_count": 16
+    "forks_count": 15
   },
   {
     "full_name": "MauriceButler/cryptr",
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 0,
     "forks_count": 37
   },
@@ -79,21 +91,21 @@
   },
   {
     "full_name": "simonhaenisch/prettier-plugin-organize-imports",
-    "stargazers_count": 651,
+    "stargazers_count": 653,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 206466,
-    "open_issues_count": 1250,
-    "forks_count": 43074
+    "stargazers_count": 206661,
+    "open_issues_count": 1258,
+    "forks_count": 43112
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 5915,
+    "stargazers_count": 5951,
     "open_issues_count": 37,
-    "forks_count": 225
+    "forks_count": 227
   },
   {
     "full_name": "typescript-community/resources",
@@ -103,80 +115,68 @@
   },
   {
     "full_name": "xiaolin/react-image-gallery",
-    "stargazers_count": 3375,
-    "open_issues_count": 17,
-    "forks_count": 674
+    "stargazers_count": 3378,
+    "open_issues_count": 16,
+    "forks_count": 675
   },
   {
     "full_name": "brimdata/react-arborist",
-    "stargazers_count": 2060,
+    "stargazers_count": 2065,
     "open_issues_count": 54,
     "forks_count": 69
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 11302,
+    "stargazers_count": 11318,
     "open_issues_count": 46,
-    "forks_count": 957
+    "forks_count": 958
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 78237,
-    "open_issues_count": 2156,
-    "forks_count": 8399
+    "stargazers_count": 78291,
+    "open_issues_count": 2159,
+    "forks_count": 8408
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 21535,
-    "open_issues_count": 234,
-    "forks_count": 744
+    "stargazers_count": 21632,
+    "open_issues_count": 240,
+    "forks_count": 749
   },
   {
     "full_name": "prisma/prisma-client-extensions",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 7,
     "forks_count": 3
   },
   {
     "full_name": "chrishoermann/zod-prisma-types",
-    "stargazers_count": 214,
+    "stargazers_count": 218,
     "open_issues_count": 23,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1258,
+    "stargazers_count": 1265,
     "open_issues_count": 9,
-    "forks_count": 186
+    "forks_count": 191
   },
   {
     "full_name": "total-typescript/advanced-typescript-workshop",
-    "stargazers_count": 811,
+    "stargazers_count": 813,
     "open_issues_count": 0,
-    "forks_count": 124
+    "forks_count": 126
   },
   {
     "full_name": "thejsway/thejsway",
     "stargazers_count": 7780,
     "open_issues_count": 1,
-    "forks_count": 797
+    "forks_count": 798
   },
   {
     "full_name": "1Password/shell-plugins",
-    "stargazers_count": 324,
-    "open_issues_count": 64,
-    "forks_count": 64
-  },
-  {
-    "full_name": "mtb-tools/vscode-mono-workspace",
-    "stargazers_count": 4,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 47183,
-    "open_issues_count": 1021,
-    "forks_count": 3980
+    "stargazers_count": 325,
+    "open_issues_count": 67,
+    "forks_count": 66
   }
 ]
