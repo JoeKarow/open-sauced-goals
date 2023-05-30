@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "bvaughn/react-error-boundary",
+    "stargazers_count": 5245,
+    "open_issues_count": 0,
+    "forks_count": 183
+  },
+  {
+    "full_name": "olivierwilkinson/prisma-nested-middleware",
+    "stargazers_count": 18,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
     "full_name": "Asjas/prisma-redis-middleware",
     "stargazers_count": 271,
     "open_issues_count": 8,
@@ -8,18 +20,18 @@
   {
     "full_name": "grantila/suretype",
     "stargazers_count": 401,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 9
   },
   {
     "full_name": "weareinreach/InReach",
     "stargazers_count": 18,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "icflorescu/mantine-contextmenu",
-    "stargazers_count": 32,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -31,51 +43,51 @@
   },
   {
     "full_name": "aranlucas/react-hook-form-mantine",
-    "stargazers_count": 21,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "KevinVandy/mantine-react-table",
-    "stargazers_count": 239,
-    "open_issues_count": 7,
+    "stargazers_count": 244,
+    "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 19943,
-    "open_issues_count": 701,
-    "forks_count": 2873
+    "stargazers_count": 20043,
+    "open_issues_count": 724,
+    "forks_count": 2897
   },
   {
     "full_name": "NaturalNode/natural",
-    "stargazers_count": 10194,
-    "open_issues_count": 92,
-    "forks_count": 880
+    "stargazers_count": 10195,
+    "open_issues_count": 85,
+    "forks_count": 881
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1221,
-    "open_issues_count": 15,
+    "stargazers_count": 1234,
+    "open_issues_count": 9,
     "forks_count": 31
   },
   {
     "full_name": "conference-buddy/conference-buddy",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
+    "stargazers_count": 13,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 10891,
+    "stargazers_count": 10955,
     "open_issues_count": 17,
     "forks_count": 67
   },
   {
     "full_name": "awsdocs/aws-doc-sdk-examples",
-    "stargazers_count": 7621,
-    "open_issues_count": 202,
-    "forks_count": 5078
+    "stargazers_count": 7641,
+    "open_issues_count": 206,
+    "forks_count": 5086
   },
   {
     "full_name": "MattyMc/chatgpt-lightning-talk",
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 106676,
-    "open_issues_count": 2005,
-    "forks_count": 23955
+    "stargazers_count": 106857,
+    "open_issues_count": 2041,
+    "forks_count": 23977
   },
   {
     "full_name": "anthonyhastings/turborepo-design-system",
@@ -103,19 +115,19 @@
   },
   {
     "full_name": "ascorbic/unpic-img",
-    "stargazers_count": 764,
-    "open_issues_count": 7,
+    "stargazers_count": 784,
+    "open_issues_count": 6,
     "forks_count": 27
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 5363,
+    "stargazers_count": 5372,
     "open_issues_count": 28,
     "forks_count": 228
   },
   {
     "full_name": "mojoaxel/awesome-regression-testing",
-    "stargazers_count": 1904,
+    "stargazers_count": 1907,
     "open_issues_count": 3,
     "forks_count": 160
   },
@@ -133,27 +145,27 @@
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
-    "stargazers_count": 318,
+    "stargazers_count": 320,
     "open_issues_count": 16,
     "forks_count": 13
   },
   {
     "full_name": "simonhaenisch/prettier-plugin-organize-imports",
-    "stargazers_count": 671,
+    "stargazers_count": 675,
     "open_issues_count": 6,
     "forks_count": 26
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 207988,
-    "open_issues_count": 1269,
-    "forks_count": 43443
+    "stargazers_count": 208204,
+    "open_issues_count": 1275,
+    "forks_count": 43488
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 6557,
-    "open_issues_count": 41,
-    "forks_count": 263
+    "stargazers_count": 6686,
+    "open_issues_count": 42,
+    "forks_count": 272
   },
   {
     "full_name": "typescript-community/resources",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "xiaolin/react-image-gallery",
-    "stargazers_count": 3407,
+    "stargazers_count": 3409,
     "open_issues_count": 20,
     "forks_count": 680
-  },
-  {
-    "full_name": "brimdata/react-arborist",
-    "stargazers_count": 2094,
-    "open_issues_count": 42,
-    "forks_count": 70
-  },
-  {
-    "full_name": "downshift-js/downshift",
-    "stargazers_count": 11374,
-    "open_issues_count": 49,
-    "forks_count": 958
   }
 ]
