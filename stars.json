@@ -1,21 +1,21 @@
 [
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 36481,
+    "stargazers_count": 36507,
     "open_issues_count": 2,
-    "forks_count": 3128
+    "forks_count": 3130
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 4237,
+    "stargazers_count": 4244,
     "open_issues_count": 0,
     "forks_count": 161
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 5432,
+    "stargazers_count": 5448,
     "open_issues_count": 0,
-    "forks_count": 185
+    "forks_count": 186
   },
   {
     "full_name": "olivierwilkinson/prisma-nested-middleware",
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "Asjas/prisma-redis-middleware",
-    "stargazers_count": 304,
-    "open_issues_count": 9,
+    "stargazers_count": 309,
+    "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "grantila/suretype",
-    "stargazers_count": 421,
-    "open_issues_count": 12,
+    "stargazers_count": 423,
+    "open_issues_count": 14,
     "forks_count": 9
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "icflorescu/mantine-contextmenu",
-    "stargazers_count": 43,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "aranlucas/react-hook-form-mantine",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "KevinVandy/mantine-react-table",
-    "stargazers_count": 315,
-    "open_issues_count": 6,
-    "forks_count": 33
+    "stargazers_count": 347,
+    "open_issues_count": 9,
+    "forks_count": 35
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 21242,
-    "open_issues_count": 655,
-    "forks_count": 3306
+    "stargazers_count": 21322,
+    "open_issues_count": 647,
+    "forks_count": 3334
   },
   {
     "full_name": "NaturalNode/natural",
-    "stargazers_count": 10252,
-    "open_issues_count": 88,
-    "forks_count": 888
+    "stargazers_count": 10254,
+    "open_issues_count": 89,
+    "forks_count": 887
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1450,
+    "stargazers_count": 1476,
     "open_issues_count": 16,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "conference-buddy/conference-buddy",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11358,
+    "stargazers_count": 11380,
     "open_issues_count": 17,
     "forks_count": 72
   },
   {
     "full_name": "awsdocs/aws-doc-sdk-examples",
-    "stargazers_count": 7875,
-    "open_issues_count": 218,
-    "forks_count": 5184
+    "stargazers_count": 7889,
+    "open_issues_count": 216,
+    "forks_count": 5196
   },
   {
     "full_name": "MattyMc/chatgpt-lightning-talk",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 109161,
-    "open_issues_count": 2178,
-    "forks_count": 24379
+    "stargazers_count": 109295,
+    "open_issues_count": 2196,
+    "forks_count": 24410
   },
   {
     "full_name": "anthonyhastings/turborepo-design-system",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "ascorbic/unpic-img",
-    "stargazers_count": 842,
+    "stargazers_count": 845,
     "open_issues_count": 5,
-    "forks_count": 30
+    "forks_count": 32
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 5455,
+    "stargazers_count": 5457,
     "open_issues_count": 31,
     "forks_count": 229
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "tatethurston/nextjs-routes",
-    "stargazers_count": 396,
-    "open_issues_count": 6,
+    "stargazers_count": 398,
+    "open_issues_count": 7,
     "forks_count": 16
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "simonhaenisch/prettier-plugin-organize-imports",
-    "stargazers_count": 704,
+    "stargazers_count": 707,
     "open_issues_count": 4,
     "forks_count": 29
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 210504,
-    "open_issues_count": 1398,
-    "forks_count": 44119
+    "stargazers_count": 210650,
+    "open_issues_count": 1412,
+    "forks_count": 44147
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 8353,
-    "open_issues_count": 73,
-    "forks_count": 340
+    "stargazers_count": 8444,
+    "open_issues_count": 72,
+    "forks_count": 343
   }
 ]
