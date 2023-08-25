@@ -19,55 +19,55 @@
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 3012,
-    "open_issues_count": 38,
-    "forks_count": 54
+    "stargazers_count": 3081,
+    "open_issues_count": 36,
+    "forks_count": 57
   },
   {
     "full_name": "open-sauced/docs",
     "stargazers_count": 42,
-    "open_issues_count": 20,
-    "forks_count": 40
+    "open_issues_count": 24,
+    "forks_count": 42
   },
   {
     "full_name": "Effect-TS/effect",
-    "stargazers_count": 2299,
-    "open_issues_count": 35,
-    "forks_count": 71
+    "stargazers_count": 2351,
+    "open_issues_count": 36,
+    "forks_count": 70
   },
   {
     "full_name": "tsparticles/tsparticles",
-    "stargazers_count": 5731,
-    "open_issues_count": 18,
-    "forks_count": 691
+    "stargazers_count": 5740,
+    "open_issues_count": 25,
+    "forks_count": 693
   },
   {
     "full_name": "woltapp/blurhash",
-    "stargazers_count": 14165,
+    "stargazers_count": 14176,
     "open_issues_count": 45,
     "forks_count": 316
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 8593,
+    "stargazers_count": 8637,
     "open_issues_count": 22,
     "forks_count": 83
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 36870,
+    "stargazers_count": 36903,
     "open_issues_count": 2,
-    "forks_count": 3168
+    "forks_count": 3173
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 4290,
+    "stargazers_count": 4300,
     "open_issues_count": 0,
     "forks_count": 163
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 5567,
+    "stargazers_count": 5584,
     "open_issues_count": 1,
     "forks_count": 190
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "Asjas/prisma-redis-middleware",
-    "stargazers_count": 325,
+    "stargazers_count": 328,
     "open_issues_count": 7,
     "forks_count": 27
   },
@@ -87,12 +87,12 @@
     "full_name": "grantila/suretype",
     "stargazers_count": 432,
     "open_issues_count": 14,
-    "forks_count": 9
+    "forks_count": 8
   },
   {
     "full_name": "weareinreach/InReach",
     "stargazers_count": 20,
-    "open_issues_count": 7,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
@@ -109,32 +109,32 @@
   },
   {
     "full_name": "aranlucas/react-hook-form-mantine",
-    "stargazers_count": 45,
-    "open_issues_count": 3,
+    "stargazers_count": 44,
+    "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "KevinVandy/mantine-react-table",
-    "stargazers_count": 398,
+    "stargazers_count": 404,
     "open_issues_count": 11,
-    "forks_count": 45
+    "forks_count": 48
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 22338,
-    "open_issues_count": 642,
-    "forks_count": 3818
+    "stargazers_count": 22617,
+    "open_issues_count": 631,
+    "forks_count": 3901
   },
   {
     "full_name": "NaturalNode/natural",
-    "stargazers_count": 10277,
-    "open_issues_count": 92,
+    "stargazers_count": 10278,
+    "open_issues_count": 89,
     "forks_count": 893
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1562,
-    "open_issues_count": 14,
+    "stargazers_count": 1571,
+    "open_issues_count": 13,
     "forks_count": 42
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11542,
-    "open_issues_count": 14,
+    "stargazers_count": 11551,
+    "open_issues_count": 16,
     "forks_count": 74
   },
   {
     "full_name": "awsdocs/aws-doc-sdk-examples",
-    "stargazers_count": 7998,
-    "open_issues_count": 261,
-    "forks_count": 5236
+    "stargazers_count": 8016,
+    "open_issues_count": 259,
+    "forks_count": 5242
   },
   {
     "full_name": "MattyMc/chatgpt-lightning-talk",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 110626,
-    "open_issues_count": 2370,
-    "forks_count": 24572
+    "stargazers_count": 110739,
+    "open_issues_count": 2394,
+    "forks_count": 24596
   },
   {
     "full_name": "anthonyhastings/turborepo-design-system",
