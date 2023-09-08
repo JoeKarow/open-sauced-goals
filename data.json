@@ -1,19 +1,19 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1349,
+    "stargazers_count": 1348,
     "open_issues_count": 101,
     "forks_count": 368
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 22898,
-    "open_issues_count": 621,
-    "forks_count": 4121
+    "stargazers_count": 22971,
+    "open_issues_count": 638,
+    "forks_count": 4169
   },
   {
     "full_name": "1Password/op-vscode",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 20,
     "forks_count": 9
   },
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 22320,
-    "open_issues_count": 25,
+    "stargazers_count": 22329,
+    "open_issues_count": 26,
     "forks_count": 1985
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 80240,
-    "open_issues_count": 1776,
-    "forks_count": 8677
+    "stargazers_count": 80266,
+    "open_issues_count": 1780,
+    "forks_count": 8685
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 111129,
-    "open_issues_count": 2377,
-    "forks_count": 24678
+    "stargazers_count": 111231,
+    "open_issues_count": 2397,
+    "forks_count": 24691
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 21086,
-    "open_issues_count": 190,
+    "stargazers_count": 21126,
+    "open_issues_count": 158,
     "forks_count": 1485
   },
   {
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 19302,
-    "open_issues_count": 35,
-    "forks_count": 835
+    "stargazers_count": 19345,
+    "open_issues_count": 34,
+    "forks_count": 838
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 158,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 182
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 887,
     "open_issues_count": 0,
-    "forks_count": 704
+    "forks_count": 710
   }
 ]
