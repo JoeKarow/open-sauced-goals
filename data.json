@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1349,
+    "stargazers_count": 1350,
     "open_issues_count": 101,
-    "forks_count": 368
+    "forks_count": 369
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 23105,
-    "open_issues_count": 653,
-    "forks_count": 4276
+    "stargazers_count": 23177,
+    "open_issues_count": 649,
+    "forks_count": 4329
   },
   {
     "full_name": "1Password/op-vscode",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 22349,
-    "open_issues_count": 24,
-    "forks_count": 1987
+    "stargazers_count": 22359,
+    "open_issues_count": 26,
+    "forks_count": 1988
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 80345,
-    "open_issues_count": 1813,
-    "forks_count": 8700
+    "stargazers_count": 80372,
+    "open_issues_count": 1833,
+    "forks_count": 8717
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 111492,
-    "open_issues_count": 2407,
-    "forks_count": 24722
+    "stargazers_count": 111625,
+    "open_issues_count": 2417,
+    "forks_count": 24732
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 21209,
-    "open_issues_count": 167,
-    "forks_count": 1491
+    "stargazers_count": 21261,
+    "open_issues_count": 160,
+    "forks_count": 1499
   },
   {
     "full_name": "100Devs-ADHD/thinkbig",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 19466,
-    "open_issues_count": 22,
-    "forks_count": 842
+    "stargazers_count": 19533,
+    "open_issues_count": 23,
+    "forks_count": 847
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 887,
+    "stargazers_count": 889,
     "open_issues_count": 0,
-    "forks_count": 716
+    "forks_count": 718
   }
 ]
