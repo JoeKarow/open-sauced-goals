@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codetriage/CodeTriage",
-    "stargazers_count": 1351,
+    "stargazers_count": 1352,
     "open_issues_count": 101,
-    "forks_count": 370
+    "forks_count": 369
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 23319,
-    "open_issues_count": 651,
-    "forks_count": 4434
+    "stargazers_count": 23400,
+    "open_issues_count": 647,
+    "forks_count": 4478
   },
   {
     "full_name": "1Password/op-vscode",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 22385,
-    "open_issues_count": 27,
-    "forks_count": 1988
+    "stargazers_count": 22406,
+    "open_issues_count": 25,
+    "forks_count": 1987
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 80438,
-    "open_issues_count": 1823,
-    "forks_count": 8729
+    "stargazers_count": 80461,
+    "open_issues_count": 1834,
+    "forks_count": 8738
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 112299,
+    "stargazers_count": 112432,
     "open_issues_count": 2489,
-    "forks_count": 24792
+    "forks_count": 24813
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 21482,
-    "open_issues_count": 35,
-    "forks_count": 1513
+    "stargazers_count": 21528,
+    "open_issues_count": 50,
+    "forks_count": 1520
   },
   {
     "full_name": "100Devs-ADHD/thinkbig",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 19607,
-    "open_issues_count": 26,
+    "stargazers_count": 19659,
+    "open_issues_count": 28,
     "forks_count": 856
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 164,
-    "open_issues_count": 15,
-    "forks_count": 184
+    "stargazers_count": 165,
+    "open_issues_count": 18,
+    "forks_count": 185
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 892,
     "open_issues_count": 0,
-    "forks_count": 723
+    "forks_count": 726
   }
 ]
