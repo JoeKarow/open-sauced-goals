@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "bradtraversy/design-resources-for-developers",
+    "stargazers_count": 53793,
+    "open_issues_count": 1,
+    "forks_count": 10935
+  },
+  {
     "full_name": "date-fns/date-fns",
-    "stargazers_count": 32564,
-    "open_issues_count": 666,
-    "forks_count": 1767
+    "stargazers_count": 32590,
+    "open_issues_count": 665,
+    "forks_count": 1768
   },
   {
     "full_name": "arasatasaygin/is.js",
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "flatpickr/flatpickr",
-    "stargazers_count": 15783,
-    "open_issues_count": 757,
-    "forks_count": 1470
+    "stargazers_count": 15782,
+    "open_issues_count": 758,
+    "forks_count": 1473
   },
   {
     "full_name": "jupediaz/chatgpt-prompt-splitter",
-    "stargazers_count": 394,
+    "stargazers_count": 397,
     "open_issues_count": 12,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "JoeKarow/joekarow.dev",
@@ -31,39 +37,39 @@
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 112161,
-    "open_issues_count": 51,
-    "forks_count": 7871
+    "stargazers_count": 112445,
+    "open_issues_count": 52,
+    "forks_count": 7884
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 8138,
-    "open_issues_count": 70,
-    "forks_count": 341
+    "stargazers_count": 8167,
+    "open_issues_count": 72,
+    "forks_count": 342
   },
   {
     "full_name": "unional/type-plus",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 22,
     "forks_count": 10
   },
   {
     "full_name": "samchon/typia",
-    "stargazers_count": 3567,
-    "open_issues_count": 28,
+    "stargazers_count": 3574,
+    "open_issues_count": 32,
     "forks_count": 115
   },
   {
     "full_name": "torokmark/design_patterns_in_typescript",
-    "stargazers_count": 4982,
+    "stargazers_count": 4983,
     "open_issues_count": 7,
     "forks_count": 751
   },
   {
     "full_name": "dzharii/awesome-typescript",
-    "stargazers_count": 4199,
-    "open_issues_count": 0,
-    "forks_count": 375
+    "stargazers_count": 4201,
+    "open_issues_count": 1,
+    "forks_count": 376
   },
   {
     "full_name": "JoeKarow/storybook-react-hook-form",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "gajus/turbowatch",
-    "stargazers_count": 816,
+    "stargazers_count": 820,
     "open_issues_count": 21,
     "forks_count": 18
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 39031,
-    "open_issues_count": 12,
-    "forks_count": 3256
+    "stargazers_count": 39058,
+    "open_issues_count": 11,
+    "forks_count": 3258
   },
   {
     "full_name": "iway1/trpc-panel",
@@ -91,14 +97,14 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 37458,
-    "open_issues_count": 21,
-    "forks_count": 1879
+    "stargazers_count": 37510,
+    "open_issues_count": 24,
+    "forks_count": 1880
   },
   {
     "full_name": "MauricioRobayo/nextjs-google-analytics",
-    "stargazers_count": 429,
-    "open_issues_count": 17,
+    "stargazers_count": 434,
+    "open_issues_count": 16,
     "forks_count": 49
   },
   {
@@ -115,55 +121,55 @@
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 3981,
-    "open_issues_count": 66,
-    "forks_count": 92
+    "stargazers_count": 4048,
+    "open_issues_count": 69,
+    "forks_count": 94
   },
   {
     "full_name": "open-sauced/docs",
-    "stargazers_count": 50,
-    "open_issues_count": 18,
+    "stargazers_count": 52,
+    "open_issues_count": 19,
     "forks_count": 50
   },
   {
     "full_name": "Effect-TS/effect",
-    "stargazers_count": 2861,
-    "open_issues_count": 52,
+    "stargazers_count": 2877,
+    "open_issues_count": 53,
     "forks_count": 87
   },
   {
     "full_name": "tsparticles/tsparticles",
-    "stargazers_count": 5978,
+    "stargazers_count": 5987,
     "open_issues_count": 16,
-    "forks_count": 711
+    "forks_count": 714
   },
   {
     "full_name": "woltapp/blurhash",
-    "stargazers_count": 14488,
+    "stargazers_count": 14504,
     "open_issues_count": 48,
-    "forks_count": 320
+    "forks_count": 321
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 9657,
-    "open_issues_count": 26,
+    "stargazers_count": 9681,
+    "open_issues_count": 25,
     "forks_count": 93
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 38055,
-    "open_issues_count": 3,
-    "forks_count": 3272
+    "stargazers_count": 38188,
+    "open_issues_count": 4,
+    "forks_count": 3292
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 4421,
+    "stargazers_count": 4430,
     "open_issues_count": 0,
     "forks_count": 170
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 5821,
+    "stargazers_count": 5833,
     "open_issues_count": 3,
     "forks_count": 192
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 26,
     "open_issues_count": 1,
     "forks_count": 4
-  },
-  {
-    "full_name": "Asjas/prisma-redis-middleware",
-    "stargazers_count": 350,
-    "open_issues_count": 8,
-    "forks_count": 29
   }
 ]
