@@ -1,39 +1,39 @@
 [
   {
     "full_name": "cbh123/narrator",
-    "stargazers_count": 2900,
+    "stargazers_count": 3026,
     "open_issues_count": 22,
-    "forks_count": 297
+    "forks_count": 322
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 53981,
+    "stargazers_count": 54029,
     "open_issues_count": 0,
-    "forks_count": 10961
+    "forks_count": 10975
   },
   {
     "full_name": "date-fns/date-fns",
-    "stargazers_count": 32650,
-    "open_issues_count": 668,
-    "forks_count": 1777
+    "stargazers_count": 32673,
+    "open_issues_count": 670,
+    "forks_count": 1780
   },
   {
     "full_name": "arasatasaygin/is.js",
-    "stargazers_count": 9185,
+    "stargazers_count": 9183,
     "open_issues_count": 47,
     "forks_count": 664
   },
   {
     "full_name": "flatpickr/flatpickr",
-    "stargazers_count": 15803,
-    "open_issues_count": 761,
-    "forks_count": 1476
+    "stargazers_count": 15804,
+    "open_issues_count": 764,
+    "forks_count": 1477
   },
   {
     "full_name": "jupediaz/chatgpt-prompt-splitter",
     "stargazers_count": 406,
     "open_issues_count": 12,
-    "forks_count": 68
+    "forks_count": 70
   },
   {
     "full_name": "JoeKarow/joekarow.dev",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 113510,
+    "stargazers_count": 113792,
     "open_issues_count": 52,
-    "forks_count": 7934
+    "forks_count": 7943
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 8432,
-    "open_issues_count": 94,
-    "forks_count": 344
+    "stargazers_count": 8500,
+    "open_issues_count": 99,
+    "forks_count": 346
   },
   {
     "full_name": "unional/type-plus",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "samchon/typia",
-    "stargazers_count": 3614,
-    "open_issues_count": 34,
-    "forks_count": 118
+    "stargazers_count": 3612,
+    "open_issues_count": 37,
+    "forks_count": 117
   },
   {
     "full_name": "torokmark/design_patterns_in_typescript",
-    "stargazers_count": 4992,
+    "stargazers_count": 4996,
     "open_issues_count": 7,
     "forks_count": 750
   },
   {
     "full_name": "dzharii/awesome-typescript",
-    "stargazers_count": 4226,
+    "stargazers_count": 4232,
     "open_issues_count": 0,
-    "forks_count": 378
+    "forks_count": 377
   },
   {
     "full_name": "JoeKarow/storybook-react-hook-form",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 39189,
+    "stargazers_count": 39253,
     "open_issues_count": 12,
-    "forks_count": 3277
+    "forks_count": 3282
   },
   {
     "full_name": "iway1/trpc-panel",
-    "stargazers_count": 525,
-    "open_issues_count": 37,
-    "forks_count": 34
+    "stargazers_count": 526,
+    "open_issues_count": 38,
+    "forks_count": 35
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 37712,
-    "open_issues_count": 24,
-    "forks_count": 1889
+    "stargazers_count": 37745,
+    "open_issues_count": 30,
+    "forks_count": 1891
   },
   {
     "full_name": "MauricioRobayo/nextjs-google-analytics",
-    "stargazers_count": 440,
+    "stargazers_count": 443,
     "open_issues_count": 17,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "felixmosh/i18next-hmr",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 4148,
-    "open_issues_count": 77,
+    "stargazers_count": 4163,
+    "open_issues_count": 79,
     "forks_count": 99
   },
   {
     "full_name": "open-sauced/docs",
-    "stargazers_count": 54,
-    "open_issues_count": 18,
-    "forks_count": 50
+    "stargazers_count": 55,
+    "open_issues_count": 16,
+    "forks_count": 51
   },
   {
     "full_name": "Effect-TS/effect",
-    "stargazers_count": 2936,
-    "open_issues_count": 56,
-    "forks_count": 95
+    "stargazers_count": 2952,
+    "open_issues_count": 50,
+    "forks_count": 96
   },
   {
     "full_name": "tsparticles/tsparticles",
-    "stargazers_count": 6028,
+    "stargazers_count": 6034,
     "open_issues_count": 15,
-    "forks_count": 717
+    "forks_count": 721
   },
   {
     "full_name": "woltapp/blurhash",
-    "stargazers_count": 14557,
-    "open_issues_count": 50,
-    "forks_count": 325
+    "stargazers_count": 14567,
+    "open_issues_count": 51,
+    "forks_count": 326
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 9846,
-    "open_issues_count": 27,
+    "stargazers_count": 9862,
+    "open_issues_count": 28,
     "forks_count": 93
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 38464,
+    "stargazers_count": 38521,
     "open_issues_count": 5,
-    "forks_count": 3317
+    "forks_count": 3319
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 4453,
+    "stargazers_count": 4461,
     "open_issues_count": 1,
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 5875,
+    "stargazers_count": 5890,
     "open_issues_count": 3,
-    "forks_count": 192
+    "forks_count": 191
   }
 ]
